@@ -1,0 +1,61 @@
+@import '../../assets/styles/reset.scss';
+@import '../../assets/styles/variables.scss';
+
+.app {
+	width: 100vw;
+	height: 100vh;
+	background-color: #e3e3e3;
+	position: relative;
+	@include font-primary;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: url('../../assets/images/cursor.svg'), auto;
+
+	&:active {
+		cursor: url('../../assets/images/cursor-click.svg') 13 13, auto;
+	}
+
+	> svg {
+		max-width: 100vw;
+		max-height: 100vh;
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+
+	.bgPause {
+		.bgLine {
+			fill: #307358;
+			fill-opacity: 1;
+			@include transition;
+		}
+
+		.bgCross {
+			fill: #05ac6a;
+			fill-opacity: 0.15;
+			@include transition;		}
+
+		.bgLogo {
+			fill: #0cb673;
+			fill-opacity: 0.3;
+			@include transition;		}
+	}
+
+	.bgPlay {
+		.bgLine {
+			fill: #b4e6d2;
+			fill-opacity: 1;
+			@include transition;		}
+
+		.bgCross {
+			fill: #05ac6a;
+			fill-opacity: 0.15;
+			@include transition;		}
+
+		.bgLogo {
+			fill: #05ac6a;
+			fill-opacity: 0.3;
+			@include transition;		}
+	}
+}

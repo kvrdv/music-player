@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@mixin font-primary {
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+}
+
+@mixin transition {
+	transition: all cubic-bezier(0.4, 0, 0.2, 1) 0.3s;
+}
+
+$btn-green: rgba(5, 172, 106, 0.15);
+$range-green: #05ac6a;
+$btn-blue: #1c274c;
