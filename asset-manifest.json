@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/music-player/static/css/main.1d4160e2.css",
+    "main.js": "/music-player/static/js/main.65389add.js",
+    "static/media/Elliot-Bass Buzzer.webp": "/music-player/static/media/Elliot-Bass Buzzer.db6ce26e41f9b8be1ddc.webp",
+    "static/media/volume-loud.svg": "/music-player/static/media/volume-loud.1f24b5da2dc7833f65b636b95a296028.svg",
+    "static/media/volume-cross.svg": "/music-player/static/media/volume-cross.94f1be4dfa9d874b21e4569ce1688229.svg",
+    "static/media/button-play.svg": "/music-player/static/media/button-play.ac3368aa16ff76d931e7281b4cb06ccf.svg",
+    "static/media/button-pause.svg": "/music-player/static/media/button-pause.3ebac908f0219b7ca21c0f6fbfb76698.svg",
+    "index.html": "/music-player/index.html",
+    "static/media/button-next.svg": "/music-player/static/media/button-next.081dee102584a5d8d629cbb4f698cd15.svg",
+    "static/media/button-prev.svg": "/music-player/static/media/button-prev.6e950f897b9350f69359c1c784337792.svg",
+    "static/media/cursor.svg": "/music-player/static/media/cursor.6b9c2524505ce29241e6.svg",
+    "static/media/cursor-click.svg": "/music-player/static/media/cursor-click.9eaa20367aa4958e699b.svg",
+    "main.1d4160e2.css.map": "/music-player/static/css/main.1d4160e2.css.map",
+    "main.65389add.js.map": "/music-player/static/js/main.65389add.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4160e2.css",
+    "static/js/main.65389add.js"
+  ]
+}
