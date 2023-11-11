@@ -1,8 +1,13 @@
 {
   "files": {
     "main.css": "/music-player/static/css/main.1d4160e2.css",
-    "main.js": "/music-player/static/js/main.65389add.js",
+    "main.js": "/music-player/static/js/main.c2fe1ea5.js",
+    "static/media/C.W.-Shoulda Coulda.mp3": "/music-player/static/media/C.W.-Shoulda Coulda.185bd8f232728be18837.mp3",
+    "static/media/Risian-League.mp3": "/music-player/static/media/Risian-League.24d440ea46f54b76c0f8.mp3",
+    "static/media/Elliot-Bass Buzzer.mp3": "/music-player/static/media/Elliot-Bass Buzzer.8b752f41bb77bb160ba8.mp3",
+    "static/media/Risian-League.webp": "/music-player/static/media/Risian-League.fe0756339fa729d606f5.webp",
     "static/media/Elliot-Bass Buzzer.webp": "/music-player/static/media/Elliot-Bass Buzzer.db6ce26e41f9b8be1ddc.webp",
+    "static/media/C.W.-Shoulda Coulda.webp": "/music-player/static/media/C.W.-Shoulda Coulda.8af8c58af33c2c06adb2.webp",
     "static/media/volume-loud.svg": "/music-player/static/media/volume-loud.1f24b5da2dc7833f65b636b95a296028.svg",
     "static/media/volume-cross.svg": "/music-player/static/media/volume-cross.94f1be4dfa9d874b21e4569ce1688229.svg",
     "static/media/button-play.svg": "/music-player/static/media/button-play.ac3368aa16ff76d931e7281b4cb06ccf.svg",
@@ -13,10 +18,10 @@
     "static/media/cursor.svg": "/music-player/static/media/cursor.6b9c2524505ce29241e6.svg",
     "static/media/cursor-click.svg": "/music-player/static/media/cursor-click.9eaa20367aa4958e699b.svg",
     "main.1d4160e2.css.map": "/music-player/static/css/main.1d4160e2.css.map",
-    "main.65389add.js.map": "/music-player/static/js/main.65389add.js.map"
+    "main.c2fe1ea5.js.map": "/music-player/static/js/main.c2fe1ea5.js.map"
   },
   "entrypoints": [
     "static/css/main.1d4160e2.css",
-    "static/js/main.65389add.js"
+    "static/js/main.c2fe1ea5.js"
   ]
 }
