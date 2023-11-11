@@ -37,7 +37,6 @@ const App: FC = () => {
 						fillOpacity="0.3"
 					/>
 				</svg>
-
 				<Player />
 			</div>
 		</IsPlayingContext.Provider>

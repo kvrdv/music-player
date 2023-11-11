@@ -34,28 +34,54 @@
 		.bgCross {
 			fill: #05ac6a;
 			fill-opacity: 0.15;
-			@include transition;		}
+			@include transition;
+		}
 
 		.bgLogo {
 			fill: #0cb673;
 			fill-opacity: 0.3;
-			@include transition;		}
+			@include transition;
+		}
 	}
 
 	.bgPlay {
 		.bgLine {
 			fill: #b4e6d2;
 			fill-opacity: 1;
-			@include transition;		}
+			@include transition;
+		}
 
 		.bgCross {
 			fill: #05ac6a;
 			fill-opacity: 0.15;
-			@include transition;		}
+			@include transition;
+		}
 
 		.bgLogo {
 			fill: #05ac6a;
 			fill-opacity: 0.3;
-			@include transition;		}
+			@include transition;
+		}
 	}
 }
+
+// :root {
+// 	--progress-width: 0;
+// 	--buffered-width: 0;
+// }
+
+// .progress-bar::-webkit-slider-thumb {
+// 	z-index: 4;
+// 	position: relative;
+// }
+
+// .progress-bar::before {
+// 	transform: scaleX(var(--progress-width));
+// 	z-index: 3;
+// }
+
+// .progress-bar::after {
+// 	transform: scaleX(var(--buffered-width));
+// 	transform-origin: left;
+// 	z-index: 2;
+// }
